@@ -1,0 +1,164 @@
+body{
+    font-family: Century Gothic;
+    font-weight: lighter;
+    font-size: 20px;
+    /* background: radial-gradient(#902f13, #902f13, black); */
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    width: 35%;
+}
+
+main{
+    border: 8px solid;
+    height: 600px;
+    background: rgba(201, 8, 8, 0.753);
+    border-radius: 50px;
+    padding: 2%;
+    padding-top: 1px;
+    background: radial-gradient(#902f13, #902f13, black);
+}
+
+input{
+    width: 100px;
+    height: 34px;
+    border-radius: 50px;
+    background: none;
+    outline: white;
+    color: white;
+}
+
+.signUp{
+    border: 1px white;
+}
+
+.logo{
+    line-height: 5px;
+    height: 80px;
+}
+
+h1{
+    font-size: 40px;
+    color: white;
+}
+
+.sectionmilieu{
+    line-height: 10px;
+    margin: auto;
+    margin-top: 60px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h6{
+    color: white;
+}
+
+.Next2{
+    border-radius: 50px;
+    background: rgba(245, 240, 240, 0.37);
+    width: 50px;
+    height: 50px;
+}
+
+.Next2:hover{
+    width: 40px;
+    height: 40px;
+}
+
+
+.Pause{
+    width: 30px;
+    height: 30px;
+}
+
+.StarBimg{
+    margin: auto;
+    width: 620px;
+    height: 405px;
+    position: absolute;
+    display: flex;
+    margin-left: 300px;
+    margin-top: -166px;
+}
+
+.Base{
+    margin-top: 155px;
+    display: flex;
+    align-content: flex-start;
+    justify-content: space-between;   
+}
+
+.BarPlay{
+    display: flex;
+}
+
+.bar1Plein{
+    width: 100px;
+    height: 2px;
+    background-color: white;
+}
+
+.bar1Vid{
+    width: 100px;
+    height: 2px;
+    background-color: rgb(100, 92, 92);
+}
+
+h2{
+    font-size: 50px;
+    margin: auto;
+    color: white;
+}
+
+.Next{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h5{
+    font-weight: lighter;
+    font-size: 20px;
+    color: white;
+}
+h6{
+    font-size: 15px;
+}
+
+h5:hover{
+    margin: auto;
+    width: 100px;
+    padding: 2px;
+    color: rgb(167, 9, 9);
+    height: 20%;
+    background: white;
+    border-radius: 15px;
+}
+
+p{
+    font-size: 15px;
+    color: white;
+}
+
+.Toplay{
+    display: flex;
+    justify-content: space-between;
+}
+
+.temps{
+    color: white;
+}
+
+
